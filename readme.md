@@ -14,7 +14,7 @@
     <a href="https://github.com/DDunda/SynthBoard"><img width="400" src="https://raw.githubusercontent.com/DDunda/PromotionalMaterials/master/SynthboardCard.png" /></a>
   </div>
   <div>
-    <a href="https://github.com/DDunda/Toby"><img width="400" src="https://raw.githubusercontent.com/DDunda/PromotionalMaterials/master/TobyCard.png" /></a>
+    <a href="https://github.com/DDunda/DesktopDog"><img width="400" src="https://raw.githubusercontent.com/DDunda/PromotionalMaterials/master/TobyCard.png" /></a>
     <a href="https://github.com/DDunda/Fields-plus-plus"><img width="400" src="https://raw.githubusercontent.com/DDunda/PromotionalMaterials/master/FieldsCard.png" /></a>
   </div>
 </div
