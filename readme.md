@@ -2,8 +2,7 @@
   <h1>Welcome to my Github!</h1>
 </div>
 <div align="center">
-  <p>In case you don't know me, I'm a casual developer who works on occasional hobby projects and even some games, although not any finished ones. Despite my lack of games, I love game design and development, and I'm currently studying that exact thing! I also like making custom engines; it tends to be a tedious and frustrating, but also very satisfying!</p>
-  <p>It's weird.</p>
+  <p>If you don't know me, I'm a casual developer who occasionally works on hobby projects and games, although not any finished ones. Even so, I love game design and development, and I'm currently studying it! I also like low level work; it tends to be tedious and frustrating, but also very satisfying! I just love well-built systems.</p>
   
   <h2>Here are my projects!</h2>
   <div>
